@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WorkManager</string>
+    <string name="open_weather_map_api_key">76ecf7fe621e2361607d5aa17d50e599</string>
+    <string name="api_key">76ecf7fe621e2361607d5aa17d50e599</string>
+    <string name="editTextHint">Enter city name</string>
+    <string name="buttonText">Refresh</string>
+</resources>
